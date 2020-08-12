@@ -1,0 +1,26 @@
+	Welcome to KEVIN.in !
+
+ Bill Number: 4938
+ Customer Name: Imkevin
+ Phone Number: 773745XXXX
+ =======================================
+ Products		QTY	COST
+ =======================================
+ Bath Soap	1	40
+ Face Cream	1	120
+ Face Wash	1	80
+ Hair Spray	2	300
+ Hair Gel		1	80
+ Food Oil		1	130
+ Wheat		1	40
+ Tea		2	360
+ Frooti		1	70
+ Limca		1	40
+ Sprite		1	0
+ ---------------------------------------
+ Cosmetic Tax			Rs. 62.0
+ Grocery Tax			Rs. 26.5
+ Cold Drinks Tax			Rs. 13.2
+
+ Total Bill			Rs. 1452.2
+ ---------------------------------------

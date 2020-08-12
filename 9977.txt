@@ -1,0 +1,28 @@
+	Welcome to KEVIN STORE !
+
+ Bill Number: 9977
+ Customer Name: Gourav Nama
+ Phone Number: 451182XXXX
+ =======================================
+ Products		QTY	Price
+ =======================================
+ Bath Soap	1	40
+ Face Cream	2	240
+ Face Wash	3	240
+ Hair Spray	4	600
+ Rice		1	125
+ Food Oil		2	260
+ Daal		1	150
+ Wheat		3	120
+ Tea		2	360
+ Maaza		2	130
+ Coca-Cola	1	90
+ Thumbs Up	2	240
+ Limca		1	40
+ ---------------------------------------
+ Cosmetic Tax			Rs. 112.0
+ Grocery Tax			Rs. 50.75
+ Cold Drinks Tax			Rs. 40.0
+
+ Total Bill			Rs. 2899.0
+ ---------------------------------------

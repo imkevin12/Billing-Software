@@ -1,0 +1,26 @@
+	Welcome to KEVIN STORE !
+
+ Bill Number: 8579
+ Customer Name: Manish Sharma
+ Phone Number: +91856286XXXX
+ =======================================
+ Products		QTY	Price
+ =======================================
+ Bath Soap	2	80
+ Face Cream	1	120
+ Hair Spray	1	150
+ Body Lotion	1	130
+ Daal		2	300
+ Tea		2	360
+ Sugar		2	90
+ Coca-Cola	2	180
+ Frooti		2	140
+ Thumbs Up	2	240
+ Limca		3	120
+ ---------------------------------------
+ Cosmetic Tax			Rs. 48.0
+ Grocery Tax			Rs. 37.5
+ Cold Drinks Tax			Rs. 54.4
+
+ Total Bill			Rs. 2060.4
+ ---------------------------------------
